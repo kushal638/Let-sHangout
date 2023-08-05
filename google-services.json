@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1016397616456",
+    "project_id": "let-shangout-ad88f",
+    "storage_bucket": "let-shangout-ad88f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016397616456:android:a98b1992549ce84c27cf7d",
+        "android_client_info": {
+          "package_name": "com.example.letshangout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016397616456-ej73rfv5kvu1p1cr92vofs9l92erqiim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6llj3ckDN57_cDlQS2Bkw0yj7getIObM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016397616456-ej73rfv5kvu1p1cr92vofs9l92erqiim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
